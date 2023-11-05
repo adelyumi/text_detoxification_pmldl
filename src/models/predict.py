@@ -8,7 +8,7 @@ def load_toxic_words():
     return toxic_words
 
 def load_model():
-    model_name = 'bert-base-uncased'
+    model_name = 'bert-base-cased'
     tokenizer = transformers.AutoTokenizer.from_pretrained(model_name)
     model = transformers.AutoModelForMaskedLM.from_pretrained(model_name)
 
