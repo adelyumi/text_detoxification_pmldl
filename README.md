@@ -6,7 +6,7 @@ Author: Adelina Kildeeva
 
 Email: a.kildeeva@innoppolis.university
 
-Group: BS21-DS-02
+Group: B21-DS-02
 
 ## Task
 Text Detoxification Task is a process of transforming the text with toxic style into the text with the same meaning but with neutral style.
